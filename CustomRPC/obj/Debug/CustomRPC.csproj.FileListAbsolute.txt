@@ -1,0 +1,17 @@
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\CustomRPC.exe.config
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\CustomRPC.exe
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\CustomRPC.pdb
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.Properties.Resources.resources
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.csproj.GenerateResource.cache
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.exe
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.pdb
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.MainForm.resources
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\DiscordRPC.dll
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\DiscordRPC.pdb
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\DiscordRPC.xml
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macie\OneDrive\Pulpit\DEVELOPMENT\CustomRPC\CustomRPC\CustomRPC\obj\Debug\CustomRPC.csproj.CopyComplete
